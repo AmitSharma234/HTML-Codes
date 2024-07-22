@@ -1,0 +1,11 @@
+table,tr,th,td{
+    border: 2px solid black;
+}
+header,footer{
+    background-color: #333    ;
+ color: #b2b2b2;
+ ;
+}
+*{
+    font-family: Inter,Cinzel,sans-serif;
+}
